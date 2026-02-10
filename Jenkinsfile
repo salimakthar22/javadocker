@@ -19,3 +19,4 @@ sh 'sudo chmod +x /opt/sonar-scanner/bin/sonar-scanner'
 sh '. /etc/profile.d/sonar-scanner.sh'
 }
 }
+//next step
